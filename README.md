@@ -1,4 +1,4 @@
-# Smart Lock Stair System for Wheelchair User
+# Smart Lock Stair System for Wheelchair User #
 
 WASD to movement
 Click 'Space' for unlocking 'Lock System'
