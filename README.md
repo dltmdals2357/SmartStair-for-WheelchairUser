@@ -1,9 +1,9 @@
-# Smart Stair with Locking System for Wheelchair User #
+# 휠체어 이용자를 위한 계단 잠금 시스템 #
 
-WASD to movement
+움직임 : WASD
 
-Click 'Space' for unlocking 'Lock System'
+'Space' 클릭 -> 잠금 시스템 해제
 
-Right Stair -> Going up
-Left Stair -> Going down
+오른쪽 계단 : 올라가기
+왼쪽 계단 : 내려가기
 
